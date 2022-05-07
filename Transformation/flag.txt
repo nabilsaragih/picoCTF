@@ -1,0 +1,3 @@
+picoCTF{16_bits_inst34d_of_8_d52c6b93}
+
+thanks to https://github.com/vishnuram1999
