@@ -1,0 +1,1 @@
+Using picoCTF webshell or linux computer, use wget command to get the program file, and then make it executable by typing chmod +x warm, execute the program using ./warm -h.
