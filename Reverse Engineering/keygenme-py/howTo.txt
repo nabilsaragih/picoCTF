@@ -1,0 +1,1 @@
+Search for dynamic trial key by encrypting username_trial with sha256, and then print the full_template_key_trial.
